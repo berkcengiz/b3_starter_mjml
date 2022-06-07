@@ -6,10 +6,10 @@
   "author": "Berk Cengiz <berkcengiiz@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "mjml --watch src/index.mjml --output src/index.html",
-    "server": "live-server --host=localhost --open=src",
+    "start": "mjml --watch src/index.mjml --output dist/index.html",
+    "server": "live-server --host=localhost --open=dist",
     "dev": "concurrently \"yarn start\" \"yarn server\"",
-    "build": "mjml src/index.mjml --output src/index.html"
+    "build": "mjml src/index.mjml --output dist/index.html"
   },
   "devDependencies": {
     "concurrently": "^7.2.1",

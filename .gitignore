@@ -4,7 +4,7 @@
 /node_modules
 
 # production
-/src/index.html
+/dist/index.html
 
 # misc
 .DS_Store

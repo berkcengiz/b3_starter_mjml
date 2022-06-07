@@ -1,8 +1,8 @@
 <mjml>
   <mj-body background-color="#eeeeee">
     <mj-section>
-      <mj-column>
-        <mj-text> Hello </mj-text>
+      <mj-column width="100%">
+        <mj-text> Hello World! </mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
