@@ -1,9 +1,20 @@
 <mjml>
+  <mj-include path="head.mjml" />
   <mj-body background-color="#eeeeee">
-    <mj-section>
-      <mj-column width="100%">
-        <mj-text> Hello World! </mj-text>
-      </mj-column>
-    </mj-section>
+    <mj-wrapper>
+      <mj-section>
+        <mj-group>
+          <mj-column>
+            <mj-text align="center"> BaseWork </mj-text>
+          </mj-column>
+          <mj-column>
+            <mj-text align="center"> BaseWork </mj-text>
+          </mj-column>
+          <mj-column>
+            <mj-text align="center"> BaseWork </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+    </mj-wrapper>
   </mj-body>
 </mjml>

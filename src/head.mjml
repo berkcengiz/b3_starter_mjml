@@ -1,0 +1,6 @@
+<mj-head>
+  <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto" />
+  <mj-attributes>
+    <mj-all font-family="Roboto" padding="0" />
+  </mj-attributes>
+</mj-head>
