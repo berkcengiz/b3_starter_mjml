@@ -6,10 +6,10 @@
         <mj-section>
           <mj-group>
             <mj-column>
-              <mj-text align="center"> BaseWork </mj-text>
+              <mj-text align="center"> Created </mj-text>
             </mj-column>
             <mj-column>
-              <mj-text align="center"> BaseWork </mj-text>
+              <mj-text align="center"> by </mj-text>
             </mj-column>
             <mj-column>
               <mj-text align="center"> BaseWork </mj-text>
