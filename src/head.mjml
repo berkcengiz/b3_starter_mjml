@@ -1,4 +1,5 @@
 <mj-head>
+  <mj-preview>BaseWork</mj-preview>
   <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto" />
   <mj-attributes>
     <mj-all font-family="Roboto" padding="0" />
