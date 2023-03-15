@@ -23,3 +23,7 @@ $ yarn add -D mjml
 ```bash
 $ yarn dev
 ```
+
+### HTML Output
+
+-   When you run the project, the HTML outputs of the pages you created under the template folder are automatically generated into the output folder.
