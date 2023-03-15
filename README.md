@@ -1,7 +1,25 @@
-SOURCE
-https://dominicarrojado.com/posts/how-to-setup-local-development-for-mjml-framework/
-https://www.youtube.com/watch?v=ZMkkegfq0W0&feature=youtu.be
+# b3 house MJML starter
 
-Install all mjml packages: yarn add -D mjml
+> Create email templates with MJML
 
-Run mjml in your terminal: yarn dev
+## Take a look at how to use MJML.
+
+[Documentation](https://documentation.mjml.io/)
+
+## Clone this repository
+
+```
+$ git clone https://github.com/berkcengiz/b3_starter_mjml.git
+```
+
+## Install packages
+
+```bash
+$ yarn add -D mjml
+```
+
+## Run MJML ın your terminal
+
+```bash
+$ yarn dev
+```
