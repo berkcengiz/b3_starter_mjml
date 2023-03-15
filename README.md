@@ -4,7 +4,7 @@
 
 ### Take a look at how to use MJML.
 
-[MJML Documentation](https://documentation.mjml.io/)
+[documentation.mjml.io](https://documentation.mjml.io/)
 
 ### Clone this repository
 
