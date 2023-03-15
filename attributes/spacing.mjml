@@ -1,0 +1,24 @@
+<mj-class name="pt-6" padding-top="6px" />
+<mj-class name="pb-6" padding-bottom="6px" />
+<mj-class name="pl-6" padding-left="6px" />
+<mj-class name="pr-6" padding-right="6px" />
+
+<mj-class name="pt-16" padding-top="16px" />
+<mj-class name="pb-16" padding-bottom="16px" />
+<mj-class name="pl-16" padding-left="16px" />
+<mj-class name="pr-16" padding-right="16px" />
+
+<mj-class name="pt-32" padding-top="32px" />
+<mj-class name="pb-32" padding-bottom="32px" />
+<mj-class name="pl-32" padding-left="32px" />
+<mj-class name="pr-32" padding-right="32px" />
+
+<mj-class name="pt-64" padding-top="64px" />
+<mj-class name="pb-64" padding-bottom="64px" />
+<mj-class name="pl-64" padding-left="64px" />
+<mj-class name="pr-64" padding-right="64px" />
+
+<mj-class name="pt-96" padding-top="96px" />
+<mj-class name="pb-96" padding-bottom="96px" />
+<mj-class name="pl-96" padding-left="96px" />
+<mj-class name="pr-96" padding-right="96px" />

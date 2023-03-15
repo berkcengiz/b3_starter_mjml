@@ -1,9 +1,13 @@
 <mjml>
+
+  <!-- Head -->
   <mj-include path="../config/head.mjml" />
 
-  <mj-body background-color="#eeeeee">
-    <mj-container background-color="#eeeeee">
-      <mj-include path="../partials/header.mjml" />
+  <mj-body mj-class="bg-white">
+    <mj-container mj-class="bg-white">
+
+      <!-- Header -->
+      <mj-include path="../layout/header.mjml" />
 
       <mj-wrapper>
         <mj-section>
@@ -15,7 +19,9 @@
         </mj-section>
       </mj-wrapper>
 
-      <mj-include path="../partials/footer.mjml" />
+      <!-- Footer -->
+      <mj-include path="../layout/footer.mjml" />
+
     </mj-container>
   </mj-body>
 </mjml>

@@ -1,19 +1,19 @@
 {
-  "name": "mjml-mailing",
-  "version": "1.0.0",
-  "main": "index.js",
-  "repository": "https://github.com/berkcengiz/mjml-mailing.git",
-  "author": "Berk Cengiz <berkcengiiz@gmail.com>",
-  "license": "MIT",
-  "scripts": {
-    "start": "mjml --watch src/**/**.mjml --output dist/",
-    "server": "live-server --host=localhost --open=dist",
-    "dev": "concurrently \"yarn start\" \"yarn server\"",
-    "build": "mjml src/**/**.mjml --output dist/"
-  },
-  "devDependencies": {
-    "concurrently": "^7.2.1",
-    "live-server": "1.2.1",
-    "mjml": "^4.12.0"
-  }
+    "name": "mjml-mailing",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "https://github.com/berkcengiz/mjml-mailing.git",
+    "author": "Berk Cengiz <berkcengiiz@gmail.com>",
+    "license": "MIT",
+    "scripts": {
+        "start": "mjml --watch template/**/**.mjml --output output/",
+        "server": "live-server --host=localhost --open=output",
+        "dev": "concurrently \"yarn start\" \"yarn server\"",
+        "build": "mjml template/**/**.mjml --output output/"
+    },
+    "devDependencies": {
+        "concurrently": "^7.2.1",
+        "live-server": "1.2.1",
+        "mjml": "^4.13.0"
+    }
 }

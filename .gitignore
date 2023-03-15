@@ -2,7 +2,7 @@
 /node_modules
 
 # production
-/dist/
+/output/*.html
 
 # misc
 .DS_Store

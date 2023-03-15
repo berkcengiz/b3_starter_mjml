@@ -1,37 +1,24 @@
 <mj-attributes>
-  <!-- General -->
-  <mj-all font-family="Roboto, sans-serif" padding="0" />
-  <mj-section full-width="full-width"></mj-section>
-  <mj-column width="100%"></mj-column>
-  <mj-group width="100%"></mj-group>
+
+  <!-- Reset -->
+  <mj-include path="../attributes/reset.mjml" />
+
+  <!-- Font -->
+  <mj-include path="../attributes/font.mjml" />
 
   <!-- Color -->
-  <mj-class name="color-white" color="#ffffff" />
-  <mj-class name="color-black" color="#000000" />
+  <mj-include path="../attributes/color.mjml" />
 
   <!-- Background -->
-  <mj-class name="bg-white" background-color="#ffffff" />
-  <mj-class name="bg-black" background-color="#000000" />
+  <mj-include path="../attributes/background-color.mjml" />
 
-  <!-- Border -->
-  <mj-class name="border-white" border-color="#ffffff" />
-  <mj-class name="border-black" border-color="#000000" />
+  <!-- Typography -->
+  <mj-include path="../attributes/typography.mjml" />
 
-  <!-- Body Text -->
-  <mj-class name="text-xs" font-size="12px" line-height="18px" />
-  <mj-class name="text-sm" font-size="14px" line-height="21px" />
-  <mj-class name="text-md" font-size="16px" line-height="24px" />
-  <mj-class name="text-lg" font-size="18px" line-height="27px" />
-  <mj-class name="text-xl" font-size="20px" line-height="30px" />
+  <!-- Spacing -->
+  <mj-include path="../attributes/spacing.mjml" />
 
-  <!-- Heading -->
-  <mj-class name="heading-xs" font-size="24px" line-height="36px" />
-  <mj-class name="heading-sm" font-size="32px" line-height="48px" />
-  <mj-class name="heading-md" font-size="48px" line-height="72px" />
-
-  <!-- Components -->
-  <mj-button font-size="16px" line-height="24px" background-color="black" color="white" border-radius="0" />
 </mj-attributes>
-<mj-style>
-  @media (max-width:480px) {}
-</mj-style>
+
+<!-- Css -->
+<mj-include path="../src/css/style.mjml" />

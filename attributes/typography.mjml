@@ -1,0 +1,12 @@
+<!-- Body Text -->
+<mj-class name="text-xs" font-size="12px" line-height="14px" />
+<mj-class name="text-sm" font-size="14px" line-height="21px" />
+<mj-class name="text-md" font-size="16px" line-height="24px" />
+<mj-class name="text-lg" font-size="18px" line-height="27px" />
+
+<!-- Heading -->
+<mj-class name="heading-md" font-size="24px" line-height="32px" />
+<mj-class name="heading-lg" font-size="32px" line-height="48px" />
+
+<!-- Rounded -->
+<mj-class name="round-16" border-radius="16px" />
