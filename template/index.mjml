@@ -12,7 +12,7 @@
       <mj-wrapper>
         <mj-section>
           <mj-column>
-            <mj-text mj-class="text-lg color-black" align="center">
+            <mj-text mj-class="fs-lg color-black" align="center">
               Body Content
             </mj-text>
           </mj-column>
