@@ -1,4 +1,4 @@
-<mj-all font-family="Roboto, sans-serif" padding="0" />
+<mj-all font-family="'DM Sans', sans-serif" padding="0" />
 
 <mj-class name="light" font-weight="300" />
 <mj-class name="regular" font-weight="400" />

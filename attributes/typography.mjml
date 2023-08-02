@@ -3,8 +3,10 @@
 <mj-class name="fs-sm" font-size="14px" line-height="21px" />
 <mj-class name="fs-md" font-size="16px" line-height="24px" />
 <mj-class name="fs-lg" font-size="18px" line-height="27px" />
-<mj-class name="fs-md" font-size="24px" line-height="32px" />
-<mj-class name="fs-lg" font-size="32px" line-height="48px" />
+<mj-class name="fs-xl" font-size="24px" line-height="32px" />
+<mj-class name="fs-xxl" font-size="32px" line-height="48px" />
 
 <!-- Rounded -->
+<mj-class name="rounded-4" border-radius="4px" />
+<mj-class name="rounded-12" border-radius="12px" />
 <mj-class name="rounded-16" border-radius="16px" />

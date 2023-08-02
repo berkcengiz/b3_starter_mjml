@@ -1,5 +1,5 @@
 <mj-head>
   <mj-preview>Berk CENGİZ</mj-preview>
-  <mj-font name="Roboto, sans-serif" href="https://fonts.googleapis.com/css2?family=Roboto" />
+  <mj-font name="'DM Sans', sans-serif" href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500;9..40,600;9..40,700&display=swap" />
   <mj-include path="attributes.mjml" />
 </mj-head>
